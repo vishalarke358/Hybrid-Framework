@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<suite-files>
+<suite-file path="C:\Users\Lenovo\eclipse-workspace\Hybrid_framework\login.xml"></suite-file>
+<suite-file path="C:\Users\Lenovo\eclipse-workspace\Hybrid_framework\homePageLogin.xml"></suite-file>
+
+</suite-files>
+</suite> <!-- Suite -->
